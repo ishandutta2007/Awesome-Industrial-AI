@@ -67,6 +67,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[LGDiMaggio/predictive-maintenance-mcp](https://github.com/LGDiMaggio/predictive-maintenance-mcp)**  
   Open-source predictive maintenance AI agent and condition monitoring copilot using Model Context Protocol (MCP). Turns LLMs into diagnostic assistants for vibration analysis, fault detection, anomaly detection, and remaining useful life estimation.
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)**  
+  Trust scoring and identity verification MCP server for autonomous industrial AI agents. Verify agent wallet identity before dispatching predictive maintenance tasks, sensor data exchanges, or grid management operations via x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 - **[caglarmert/awesome-predictive-maintenance](https://github.com/caglarmert/awesome-predictive-maintenance)**  
   Curated list of predictive maintenance research papers, datasets, and repositories. Excellent starting point for building custom solutions.
 
